@@ -1,2 +1,0 @@
-# Pulse
-Pulse v1
